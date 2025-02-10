@@ -1,4 +1,7 @@
-# Laravel Journey
+<div align="center">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" />
+  <h1>Laravel Journey</h1>
+</div>
 
 ### (New)
 
